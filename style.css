@@ -44,17 +44,19 @@ h1{
     width: 125px;
 }
 .skill{
-    height: 125px;
-    width: 125px;
+    height: 200px;
+    width: 200px;
 }
 .Img1{
     margin-right: 40%;
+    position: relative;
+    top: 125px;
 }
 .Txt1{
    margin-left: 50%;
 }
 h2{
-    font-family : 'Fuggles', cursive;
+    font-family: 'Anton', sans-serif;
 }
 .skill-row{
     display: inline;
